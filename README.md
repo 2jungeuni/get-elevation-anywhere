@@ -10,7 +10,7 @@
 ### :earth_asia: Visualization
 `visualization.ipynb` visualizes speed limits and elevations for each road link.
 It is the result of visualizing the elevation of the New York area, and the most terrains are flat.
-![Screenshot from 2024-03-25 21-21-54.png](..%2F..%2FPictures%2FScreenshot%20from%202024-03-25%2021-21-54.png)
+![ex_screenshot](./images/elevation_result.png)
 
 ### :pushpin: Reference
 [1] https://data.cityofnewyork.us/Transportation/VZV_Speed-Limits/7n5j-865y  
