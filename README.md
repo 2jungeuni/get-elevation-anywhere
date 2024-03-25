@@ -5,8 +5,13 @@
 - elevation: It can be downloaded from [2].
 
 ### :memo: Description
-`get_speed_limit.ipynb` and `get_elevation.ipynb` add speed limit and elevation attributes to each road edge, respectively.
+`get_speed_limit.ipynb` and `get_elevation.ipynb` add speed limit (unit: m/s) and elevation (unit: radians) attributes to each road edge, respectively.
+
+### :earth_asia: Visualization
+`visualization.ipynb` visualizes speed limits and elevations for each road link.
+It is the result of visualizing the elevation of the New York area, and the most terrains are flat.
+![Screenshot from 2024-03-25 21-21-54.png](..%2F..%2FPictures%2FScreenshot%20from%202024-03-25%2021-21-54.png)
 
 ### :pushpin: Reference
 [1] https://data.cityofnewyork.us/Transportation/VZV_Speed-Limits/7n5j-865y  
-[2] https://developers.google.com/maps/documentation/elevation/requests-elevation?hl=ko
+[2] https://developers.google.com/maps/documentation/elevation/requests-elevation
